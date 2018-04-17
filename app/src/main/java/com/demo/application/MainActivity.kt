@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //added changes 17 april 7 pm
+        //time to go home :)
     }
 }
