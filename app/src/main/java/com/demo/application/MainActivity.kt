@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         //added changes 17 april 7 pm
         //time to go home :)
+        // bye
     }
 }
